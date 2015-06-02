@@ -1,0 +1,27 @@
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe.config
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csprojResolveAssemblyReference.cache
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.EmployeeInfo.resources
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.Properties.Resources.resources
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csproj.GenerateResource.Cache
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\bin\Debug\Employee Information App.pdb
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee Information App.exe
+c:\users\islam monjil\documents\visual studio 2013\Projects\Employee Information App\Employee Information App\obj\Debug\Employee Information App.pdb
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe.config
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee Information App.exe
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee Information App.pdb
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\bin\Debug\Employee Information App.pdb
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csprojResolveAssemblyReference.cache
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.EmployeeInfo.resources
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.Properties.Resources.resources
+F:\Important\Home Works BITM\10 Home_Work_23th_april\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe.config
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee Information App.exe
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee Information App.pdb
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\bin\Debug\Employee Information App.exe
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\bin\Debug\Employee Information App.pdb
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.EmployeeInfo.resources
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee_Information_App.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Employee Information App\Employee Information App\Employee Information App\obj\Debug\Employee Information App.csproj.GenerateResource.Cache
